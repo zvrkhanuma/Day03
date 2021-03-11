@@ -1,8 +1,15 @@
 function main() {
-    // Komentara bez
+    // Only change code below this line
 
-    /* Bez komentara opet */
-    
+    /* document.write("This is a multi-line comment!");
+    document.write("This is a multi-line comment!");
+    document.write("This is a multi-line comment!");
+    document.write("This is a multi-line comment!");
+    document.write("This is a multi-line comment!");
+    */
+
+     // Only change code above this line
+
 
    
    
